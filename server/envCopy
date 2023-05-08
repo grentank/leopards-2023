@@ -1,0 +1,4 @@
+DB_NAME=optimization
+DB_PASS=123
+DB_USER=admin
+PORT=3001
